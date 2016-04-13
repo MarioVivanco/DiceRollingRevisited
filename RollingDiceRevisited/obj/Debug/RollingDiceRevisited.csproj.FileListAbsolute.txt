@@ -1,0 +1,12 @@
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.exe.config
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.pdb
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.csprojResolveAssemblyReference.cache
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 3\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.pdb
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.exe.config
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.pdb
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.exe
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\bin\Debug\RollingDiceRevisited.pdb
+C:\Users\Mario Vivanco\Documents\UofP\PRG_409\Week 4\RollingDiceRevisited\RollingDiceRevisited\obj\Debug\RollingDiceRevisited.csprojResolveAssemblyReference.cache
